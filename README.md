@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 here you can see the first shaky steps of an IT admin into the DevOps world
+
+🐣 blockchain, devops
+🐤 azure
+🦢 empirum, powershell
