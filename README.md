@@ -21,5 +21,5 @@ Manchmal ein Skript. Manchmal eine Schublade. Oft beides.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dernerl&show_icons=true&hide_border=true&theme=graywhite&hide=stars&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dernerl&layout=compact&hide_border=true&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dernerl&show_icons=true&hide_border=true&theme=default&hide=stars&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dernerl&layout=compact&hide_border=true&theme=default)
