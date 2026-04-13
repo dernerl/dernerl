@@ -18,8 +18,3 @@ Manchmal ein Skript. Manchmal eine Schublade. Oft beides.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dernerl&show_icons=true&hide_border=true&theme=default&hide=stars&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dernerl&layout=compact&hide_border=true&theme=default)
