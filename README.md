@@ -1,13 +1,9 @@
 # dernerl
 
-Ich baue Dinge. Code und Holz, Automation und Hammer —  
-kein Gegensatz, ein Tisch.
+Ich baue und automatisiere Systeme — Cloud, Identity, Endgeräte. KI hilft, dass es inzwischen egal ist welche Sprache genutzt wird: PowerShell, Bash, TypeScript.
 
-Tagsüber: Microsoft 365 · Azure · Intune · PowerShell.  
-Systeme, die laufen wenn niemand hinschaut.
-
-Danach: was das aktuelle Projekt braucht.  
-Manchmal ein Skript. Manchmal eine Schublade. Oft beides.
+Am Bürotisch liegen Laptop und Lötkolben nebeneinander. An der Werkbank Laptop und
+Japansäge. Am Ende soll dabei etwas besser werden als vorher.
 
 ---
 
